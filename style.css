@@ -62,3 +62,18 @@
     padding: 8px;
     border: 8px solid darkslateblue;
 }
+
+#section-3 {
+    float: left;
+    position: relative;
+    top: 15px;
+    left: 10px;
+}
+
+#email, #linked-in {
+    font-size: 1.5em;
+}
+
+#section-3 a {
+    font-size: 1.5em;
+}
