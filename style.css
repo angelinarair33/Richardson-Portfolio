@@ -16,7 +16,7 @@
 }
 #about-me {
     position: relative;
-    left: 15px;
+    left: 10px;
     top: 30px;
 }
 
@@ -36,12 +36,29 @@
     margin: 8px;
 }
 
-#section-2 a img {
-    max-width: 30%;
-    padding: 8px;
-    border: 8px solid darkslateblue;
+#section-2 {
+    float: left;
+    position: relative;
+    top: 20px;
+}
+
+#my-work {
+    position: relative;
+    left: 10px;
 }
 
 #section-2 p {
     font-size: 1.5em;
+    position: relative;
+    left: 10px;
+}
+
+#section-2 a img {
+    float: left;
+    position: relative;
+    left: 10px;
+    top: -15px;
+    max-width: 30%;
+    padding: 8px;
+    border: 8px solid darkslateblue;
 }
